@@ -1,4 +1,4 @@
-module github.com/kostyay/gorm-opentelemetry
+module github.com/go-codes/gorm-opentelemetry
 
 go 1.15
 
